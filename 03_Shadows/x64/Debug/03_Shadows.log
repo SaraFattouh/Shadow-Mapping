@@ -1,0 +1,11 @@
+﻿  MyApp.cpp
+C:\Users\saraa\OneDrive\Desktop\New Graphics\Spare\03_Shadows\03_Shadows\MyApp.cpp(277,66): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\saraa\OneDrive\Desktop\New Graphics\Spare\03_Shadows\03_Shadows\MyApp.cpp(325,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\saraa\OneDrive\Desktop\New Graphics\Spare\03_Shadows\03_Shadows\MyApp.cpp(490,40): warning C4312: 'type cast': conversion from 'GLuint' to 'ImTextureID' of greater size
+C:\Users\saraa\OneDrive\Desktop\New Graphics\Spare\03_Shadows\03_Shadows\MyApp.cpp(496,41): warning C4312: 'type cast': conversion from 'GLuint' to 'ImTextureID' of greater size
+C:\Users\saraa\OneDrive\Desktop\New Graphics\Spare\03_Shadows\03_Shadows\MyApp.cpp(502,49): warning C4312: 'type cast': conversion from 'GLuint' to 'ImTextureID' of greater size
+  03_Shadows.vcxproj -> C:\Users\saraa\OneDrive\Desktop\New Graphics\Spare\03_Shadows\x64\Debug\03_Shadows.exe
